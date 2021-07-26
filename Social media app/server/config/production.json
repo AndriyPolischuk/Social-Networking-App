@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Andriy123:Andriy123@cluster0-0lj7u.azure.mongodb.net/SOCIAL?retryWrites=true",
+    "jwtSecret": "mysecrettoken"
+}
